@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Computer Vision"
+  - title: "ComputerVision"
     url: /computer-vision/
   - title: "Study"
     sublinks:
